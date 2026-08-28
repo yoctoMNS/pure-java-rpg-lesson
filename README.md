@@ -108,6 +108,7 @@ Java 基礎（他の講座で習得済み）
 | [docs/05_ASSETS.md](docs/05_ASSETS.md) | 絵・音・フォントの入手先とライセンスの決まり |
 | [docs/06_ARCHITECTURE.md](docs/06_ARCHITECTURE.md) | 最終的なクラス構成（全46クラス）とデータ形式 |
 | [docs/07_REVIEW_NOTES.md](docs/07_REVIEW_NOTES.md) | **計画を見直した記録**（第1版 → 第4版） |
+| [docs/08_IMPLEMENTATION_WORKFLOW.md](docs/08_IMPLEMENTATION_WORKFLOW.md) | **実装の進めかた**（1日ごとの指示テンプレート・タグ規則・差分の見せ方） |
 
 **まず読む順番**: `00 → 02 → 01`（全体像 → ルール → 各回の中身）
 
@@ -118,6 +119,11 @@ Java 基礎（他の講座で習得済み）
 3. 台本を書き、ルール7のチェックリスト20項目で確認する
 4. その回の終わりに `git tag ep01` のようにタグを付ける
    （書き直しの回は `ep17-before` と `ep17` の2つ）
+
+### 実装を進めるとき
+
+台本ができたら、`docs/08_IMPLEMENTATION_WORKFLOW.md` の手順でコードを実装します。
+**1話＝1コミット＝1タグ**が基本で、授業中は前後のタグの差分（`git diff ep06 ep07`）を見せながら進められます。
 
 ## 使う道具
 
