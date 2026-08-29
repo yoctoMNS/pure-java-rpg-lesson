@@ -109,6 +109,7 @@ Java 基礎（他の講座で習得済み）
 | [docs/06_ARCHITECTURE.md](docs/06_ARCHITECTURE.md) | 最終的なクラス構成（全46クラス）とデータ形式 |
 | [docs/07_REVIEW_NOTES.md](docs/07_REVIEW_NOTES.md) | **計画を見直した記録**（第1版 → 第4版） |
 | [docs/08_IMPLEMENTATION_WORKFLOW.md](docs/08_IMPLEMENTATION_WORKFLOW.md) | **実装の進めかた**（1日ごとの指示テンプレート・タグ規則・差分の見せ方） |
+| [docs/09_VIDEO_TITLES.md](docs/09_VIDEO_TITLES.md) | **全30回の動画タイトル**（YouTube SEOの調査結果と根拠つき） |
 
 **まず読む順番**: `00 → 02 → 01`（全体像 → ルール → 各回の中身）
 
